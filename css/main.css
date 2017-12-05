@@ -1,0 +1,23 @@
+.color{
+    background-color: #EEEEEE;
+}
+.agrandar{
+    font-size: 70px;
+}
+.agrandarP{
+    font-size: 20px;
+}
+.osos{
+    width: 200px;
+    height: 200px;
+}
+.enlinea{
+    display: inline-block;
+}
+.mostrar{
+    display: inline;
+    position: relative;
+}
+.separar{
+    margin-bottom: 20px;
+}
